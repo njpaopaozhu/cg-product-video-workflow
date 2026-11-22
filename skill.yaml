@@ -1,0 +1,5 @@
+name: cg_product_video_workflow
+title: CG Product Video Workflow
+description: Build a short CG product video from logo-bearing stills through locked-camera clips, narration, subtitles and a verified ffmpeg assembly, and publish the reusable workflow.
+category: Creation
+include_in_prompt: false
